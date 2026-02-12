@@ -6,5 +6,4 @@ app = FastAPI()
 def read_root():
     return {"message": "CI/CD Pipeline Working! Sumit Dohan"}
 
-# version 1.1
 
